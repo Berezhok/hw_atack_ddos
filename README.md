@@ -28,7 +28,7 @@
 ### Поменял в настройках VirtualBox настройку сети с NAT на Сетевой мост и вроде что-то получилось
 ### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/metas1.png)
 ### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/metas_ip.png)
-### 
+### Буду дальше смотреть
 ### 
 ### 
 ### 
