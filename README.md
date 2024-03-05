@@ -24,6 +24,14 @@
 ### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/metas.png)
 ### Что вводить в nmap не сосвсем понятно.
 ### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/zad1.png)
+### Доработочка
+### Поменял в настройках VirtualBox настройку сети с NAT на Сетевой мост и вроде что-то получилось
+### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/metas1.png)
+### ![](https://github.com/Berezhok/hw_atack_ddos/blob/main/img/matas_ip.png)
+### 
+### 
+### 
+### 
 ### Задание 2
 ### Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 ### 
